@@ -179,6 +179,10 @@ IPADS
     display: none;
 }
 
+.hero-text-container p, .text-container{
+    margin: 0 2em;
+}
+
 .about-hero-container{
     display:inline;
 }
